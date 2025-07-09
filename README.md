@@ -66,7 +66,7 @@ There’s still so much I need to learn—and that excites me. I see software en
 
 ---
 
-Thanks for stopping by—let’s learn and build something meaningful together.![image](https://github.com/user-attachments/assets/4a790ea1-2a27-490f-90bd-cc1a27325fd3)
+Thanks for stopping by—let’s learn and build something meaningful together.
 
 
 <!--
