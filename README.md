@@ -2,10 +2,11 @@
 
 📍 **Location:** Tennessee, United States  
 🎓 **Studying:** B.S. Software Engineering @ Western Governors University *(In Progress)*  
-💻 **Portfolio:** [tylerford2.github.io/html_portfolio](https://tylerford2.github.io/html_portfolio/) 
-🚀 **Portfolio (Render):** [html-portfolio-559f.onrender.com](https://html-portfolio-559f.onrender.com/#)
-📬 **Email:** mstylerashleyford@gmail.com  
-🧍 **Pronouns:** she/her
+📂 **Portfolio:** [tylerford2.github.io/html_portfolio](https://tylerford2.github.io/html_portfolio/)  
+🚀 **Portfolio (Render):** [html-portfolio-559f.onrender.com](https://html-portfolio-559f.onrender.com/#)  
+📬 **Email:** mstylersashleyford@gmail.com  
+🧍‍♀️ **Pronouns:** she/her
+
 
 ---
 
