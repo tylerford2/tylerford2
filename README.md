@@ -1,10 +1,11 @@
 # Tyler Ford
 
-📍 Tennessee, United States  
-🎓 B.S. Software Engineering @ Western Governors University (In Progress)
-🖥️ https://tylerford2.github.io/html_portfolio/
-📧 mstylerashleyford@gmail.com  
-👤 Pronouns: she/her  
+📍 **Location:** Tennessee, United States  
+🎓 **Studying:** B.S. Software Engineering @ Western Governors University *(In Progress)*  
+💻 **Portfolio:** [tylerford2.github.io/html_portfolio](https://tylerford2.github.io/html_portfolio/)  
+📬 **Email:** mstylerashleyford@gmail.com  
+🧍 **Pronouns:** she/her
+
 ---
 
 ## 👋 About Me
