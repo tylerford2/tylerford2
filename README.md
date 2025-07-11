@@ -4,9 +4,9 @@
 🎓 **Studying:** B.S. Software Engineering @ Western Governors University *(In Progress)*  
 📂 **Portfolio:** [tylerford2.github.io/html_portfolio](https://tylerford2.github.io/html_portfolio/)  
 🚀 **Portfolio (Render):** [html-portfolio-559f.onrender.com](https://html-portfolio-559f.onrender.com/#)  
-📬 **Email:** mstylersashleyford@gmail.com  
+💡 _Psst... try pressing the `t` key three times when viewing either portfolio!_  
+📬 **Email:** mstylerashleyford@gmail.com  
 🧍‍♀️ **Pronouns:** she/her
-
 
 ---
 
