@@ -1,7 +1,8 @@
 # Tyler Ford
 
 📍 Tennessee, United States  
-🎓 B.S. Software Engineering @ Western Governors University (In Progress)  
+🎓 B.S. Software Engineering @ Western Governors University (In Progress)
+🖥️ https://tylerford2.github.io/html_portfolio/
 📧 mstylerashleyford@gmail.com  
 👤 Pronouns: she/her  
 ---
@@ -35,7 +36,7 @@ One of my long-term goals is to explore game development, particularly using too
 ## 🌱 Currently Learning
 
 - Python  
-- HTML & CSS  
+- HTML, JS & CSS  
 - SQL  
 - Git & GitHub  
 - Software development principles  
